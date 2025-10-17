@@ -49,7 +49,7 @@ Incluye restauración de posición al volver al feed, un diseño adaptativo y ma
 
 | Pantalla | Captura |
 |-----------|----------|
-| Feed principal | ![FeedScreen](./screens<img width="512" height="916" alt="feed_screen" src="https://github.com/user-attachments/assets/1d2bd115-40a0-4398-8724-075358d45796" />
+| Feed principal | <img width="512" height="916" alt="feed_screen" src="https://github.com/user-attachments/assets/1d2bd115-40a0-4398-8724-075358d45796" />
 hots/feed_screen.png) |
 | Detalle de imagen |  <img width="365" height="797" alt="detail_screen" src="https://github.com/user-attachments/assets/b5545d5d-d2aa-4fe4-b6c0-2c8787e93b97" />
 |
