@@ -79,6 +79,12 @@ hots/feed_screen.png) |
 ```bash
 git clone https://github.com/samuelrobledo52/PinterestFeed.git
 
+## Demostración en video
+
+A continuación se muestra una breve demostración del funcionamiento del proyecto:
+
+<video src="https://github.com/samuelrobledo52/PinterestFeed/assets/TU-LINK-DE-VIDEO.mp4" width="320" controls></video>
+
 
 
 
