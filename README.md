@@ -39,9 +39,7 @@ Incluye restauración de posición al volver al feed, un diseño adaptativo y ma
 
 ## Estructura del proyecto
 
-<img width="607" height="706" alt="imagen_2025-10-16_233206894" src="https://github.com/user-attachments/assets/4af7dc25-a695-4fcd-94f1-c8120d69b523" />
-
-
+<img width="607" height="706" alt="estructura" src="https://github.com/user-attachments/assets/4af7dc25-a695-4fcd-94f1-c8120d69b523" />
 
 ---
 
@@ -49,12 +47,10 @@ Incluye restauración de posición al volver al feed, un diseño adaptativo y ma
 
 | Pantalla | Captura |
 |-----------|----------|
-| Feed principal | <img width="512" height="916" alt="feed_screen" src="https://github.com/user-attachments/assets/1d2bd115-40a0-4398-8724-075358d45796" />
-hots/feed_screen.png) |
-| Detalle de imagen |  <img width="365" height="797" alt="detail_screen" src="https://github.com/user-attachments/assets/b5545d5d-d2aa-4fe4-b6c0-2c8787e93b97" />
-|
+| Feed principal | <img width="512" height="916" alt="feed_screen" src="https://github.com/user-attachments/assets/1d2bd115-40a0-4398-8724-075358d45796" /> |
+| Detalle de imagen | <img width="365" height="797" alt="detail_screen" src="https://github.com/user-attachments/assets/b5545d5d-d2aa-4fe4-b6c0-2c8787e93b97" /> |
 
-
+---
 
 ## Funcionamiento general
 
@@ -78,12 +74,7 @@ hots/feed_screen.png) |
 
 ```bash
 git clone https://github.com/samuelrobledo52/PinterestFeed.git
-
-## Demostración en video
-
-A continuación se muestra una breve demostración del funcionamiento del proyecto:
-
-<video src="https://github.com/samuelrobledo52/PinterestFeed/assets/TU-LINK-DE-VIDEO.mp4" width="320" controls></video>
+cd PinterestFeed
 
 
 
