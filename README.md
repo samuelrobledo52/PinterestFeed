@@ -78,7 +78,7 @@ hots/feed_screen.png) |
 
 ```bash
 git clone https://github.com/samuelrobledo52/PinterestFeed.git
-cd PinterestFeed
+
 
 
 
