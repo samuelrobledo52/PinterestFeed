@@ -43,3 +43,42 @@ Incluye restauración de posición al volver al feed, un diseño adaptativo y ma
 
 
 
+---
+
+## Capturas de pantalla
+
+| Pantalla | Captura |
+|-----------|----------|
+| Feed principal | ![FeedScreen](./screens<img width="512" height="916" alt="feed_screen" src="https://github.com/user-attachments/assets/1d2bd115-40a0-4398-8724-075358d45796" />
+hots/feed_screen.png) |
+| Detalle de imagen |  <img width="365" height="797" alt="detail_screen" src="https://github.com/user-attachments/assets/b5545d5d-d2aa-4fe4-b6c0-2c8787e93b97" />
+|
+
+
+
+## Funcionamiento general
+
+1. El `FeedViewModel` gestiona la paginación y el estado de las imágenes.  
+2. `FakeApi.kt` genera imágenes aleatorias desde **picsum.photos**.  
+3. El `LazyVerticalStaggeredGrid` muestra las imágenes en formato tipo muro.  
+4. Al seleccionar una imagen, se navega hacia `DetailScreen.kt` mostrando el título, ID y dimensiones.  
+5. Al regresar, la posición del scroll se mantiene gracias al estado guardado.
+
+---
+
+## Requisitos para ejecutar el proyecto
+
+- Android Studio **Iguana** o superior  
+- SDK mínimo: **24**  
+- Conexión a Internet (para cargar imágenes)
+
+---
+
+## Ejecución
+
+```bash
+git clone https://github.com/samuelrobledo52/PinterestFeed.git
+cd PinterestFeed
+
+
+
